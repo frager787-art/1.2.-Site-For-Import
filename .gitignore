@@ -1,0 +1,10 @@
+# Игнорировать всю папку tmp
+tmp/
+
+# Игнорировать файлы с суффиксами _old и _backup
+*_old
+*_backup
+
+# Игнорировать системные файлы Windows и macOS
+Thumbs.db
+.DS_Store
